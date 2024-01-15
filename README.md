@@ -1,2 +1,2 @@
-# En kort berättelse
-Det var en gång och den var sandad.
+# vägen
+Det var en gång en väg och den var sandad för att det fans is på den.
