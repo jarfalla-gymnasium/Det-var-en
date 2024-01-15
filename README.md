@@ -1,2 +1,2 @@
-# En kort berättelse
-Det var en gång och den var sandad.
+# En kortare berättelse
+Det var en ko på ängen.
